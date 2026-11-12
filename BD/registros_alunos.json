@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "matricula": "2026A01",
+    "nome": "CARLOS EDUARDO SILVA",
+    "turma": "3A",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 8,
+    "alertaTempo": false
+  },
+  {
+    "id": 2,
+    "matricula": "2023A10",
+    "nome": "ISABELLA SOUZA",
+    "turma": "2B",
+    "data": "2026-11-04",
+    "presente": true,
+    "motivoSaida": "BIBLIOTECA",
+    "minutosFora": 6,
+    "alertaTempo": false
+  },
+  {
+    "id": 3,
+    "matricula": "2026A21",
+    "nome": "JOÃO GOMES",
+    "turma": "3B",
+    "data": "2026-10-13",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 17,
+    "alertaTempo": true
+  },
+  {
+    "id": 4,
+    "matricula": "2026A13",
+    "nome": "LUISA SONZA",
+    "turma": "2A",
+    "data": "2026-08-10",
+    "presente": true,
+    "motivoSaida": "ENFERMARIA",
+    "minutosFora": 7,
+    "alertaTempo": false
+  },
+  {
+    "id": 5,
+    "matricula": "2026A27",
+    "nome": "EDUARDO DE OLIVEIRA",
+    "turma": "3A",
+    "data": "2026-07-12",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 20,
+    "alertaTempo": true
+  }
+]
